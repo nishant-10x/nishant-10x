@@ -28,9 +28,9 @@
 ### :man_technologist: About Me :
 I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Delhi ,India.
 
-- :seedling: DeFi & Smart Contract Auditing.
+- :seedling: DeFi , Maths & Smart Contract Auditing.
 
-- :zap: In my free time, I read previously audited smart contract's report .
+- :zap: In my free time, I play video games .
 
 ---
 
